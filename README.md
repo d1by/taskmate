@@ -33,7 +33,7 @@ Setting up virtual environment:
 4.7 ```python manage.py runserver```
 
 
-5 The terminal should now read:
+5. The terminal should now read:
 ```
 Watching for file changes with StatReloader
 Performing system checks...
@@ -44,7 +44,7 @@ Django version 4.1.7, using settings 'taskmate.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 ```
-6 Open your browser and enter ```http://127.0.0.1:8000/```
+6. Open your browser and enter ```http://127.0.0.1:8000/```
 
 ## Authors
 
