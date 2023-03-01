@@ -17,19 +17,19 @@ submission for a club lol
 
 3) enter the following:
 
-3.1  ```pip install virtualenv```
+   3.1  ```pip install virtualenv```
 
-3.2 ```cd desktop```
+   3.2 ```cd desktop```
 
-3.3 ```virtualenv env```
+   3.3 ```virtualenv env```
 
-3.4 ```env\scripts\activate```
+   3.4 ```env\scripts\activate```
 
-3.5 ```pip install django```
+   3.5 ```pip install django```
 
-3.6 ```cd taskmate-main```
+   3.6 ```cd taskmate-main```
 
-3.7 ```python manage.py runserver```
+   3.7 ```python manage.py runserver```
 
 
 4) The terminal should now read:
