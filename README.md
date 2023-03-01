@@ -10,7 +10,7 @@ submission for a club lol
 * Django
 * Virtual Environment (optional, recommended)
 
-### Installing
+### Installing (with virtual environment)
 1) clone repo, extract zip
 
 2) open terminal and cd into the folder with 'taskmate-main'
