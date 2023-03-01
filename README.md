@@ -11,11 +11,11 @@ submission for a club lol
 * Virtual Environment (optional, recommended)
 
 ### Installing
-1.0 clone repo, extract zip
+1) clone repo, extract zip
 
-2.0 open terminal and cd into the folder with 'taskmate-main'
+2) open terminal and cd into the folder with 'taskmate-main'
 
-3.0 enter the following:
+3) enter the following:
 
 3.1  ```pip install virtualenv```
 
@@ -32,7 +32,7 @@ submission for a club lol
 3.7 ```python manage.py runserver```
 
 
-4.0 The terminal should now read:
+4) The terminal should now read:
 ```
 Watching for file changes with StatReloader
 Performing system checks...
@@ -43,7 +43,7 @@ Django version 4.1.7, using settings 'taskmate.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 ```
-5.0 Open your browser and enter ```http://127.0.0.1:8000/```
+5) Open your browser and enter ```http://127.0.0.1:8000/```
 
 ## Authors
 
