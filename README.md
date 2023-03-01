@@ -17,15 +17,23 @@ Setting up virtual environment:
 
 3. open terminal and cd into the folder with 'taskmate-main'
 4. enter the following:
+
 4.1  ```pip install virtualenv```
+
 4.2 ```cd desktop```
+
 4.3 ```virtualenv env```
+
 4.4 ```env\scripts\activate```
+
 4.5 ```pip install django```
+
 4.6 ```cd taskmate-main```
+
 4.7 ```python manage.py runserver```
 
-5.0 The terminal should now read:
+
+5 The terminal should now read:
 ```
 Watching for file changes with StatReloader
 Performing system checks...
@@ -36,7 +44,7 @@ Django version 4.1.7, using settings 'taskmate.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 ```
-6.0 Open your browser and enter ```http://127.0.0.1:8000/```
+6 Open your browser and enter ```http://127.0.0.1:8000/```
 
 ## Authors
 
